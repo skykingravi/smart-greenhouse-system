@@ -1,0 +1,21 @@
+Sensors:
+    dht11
+    soil moisture
+    ldr
+
+Actuators:
+    high torque servo motor
+    lights
+    heating bulb
+    cooling fan
+    water pump
+
+MCU:
+    ESP8266
+
+Other:
+    bread board
+    jumper wires
+    soldering iron
+    wires
+    relay modules
